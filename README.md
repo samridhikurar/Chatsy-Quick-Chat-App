@@ -1,4 +1,5 @@
 Chatsy: Chat with your favourite person now!
+
 <img src="https://user-images.githubusercontent.com/66664643/129386022-62a52f41-4145-465b-8af2-6a1c9fd7d458.png" alt="alt text" width="200" height="400">
 
 
