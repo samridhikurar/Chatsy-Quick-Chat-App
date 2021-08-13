@@ -1,5 +1,5 @@
 Chatsy: Chat with your favourite person now!
-![Splash Screen](https://user-images.githubusercontent.com/66664643/129386022-62a52f41-4145-465b-8af2-6a1c9fd7d458.png | width=100)
+<img src="https://user-images.githubusercontent.com/66664643/129386022-62a52f41-4145-465b-8af2-6a1c9fd7d458.png" alt="alt text" width="200" height="400">
 
 
 A basic yet fascinating quick chat app with interesting splash screen, interactive activities (separate login and create account screen) and ofcourse a simple chat window to connect with other users. 
